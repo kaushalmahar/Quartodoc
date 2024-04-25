@@ -1,0 +1,1034 @@
+country,alpha_2_code,alpha_3_code,time_period,Deliveries_in_a_Health_Facility
+Afghanistan,AF,AFG,2003,12.9
+Afghanistan,AF,AFG,2010,32.4
+Afghanistan,AF,AFG,2011,32.9
+Afghanistan,AF,AFG,2012,35.8
+Afghanistan,AF,AFG,2014,42.8
+Afghanistan,AF,AFG,2015,48.1
+Afghanistan,AF,AFG,2017,50.5
+Afghanistan,AF,AFG,2018,56.3
+Afghanistan,AF,AFG,2020,62.5
+Albania,AL,ALB,2002,94
+Albania,AL,ALB,2005,98
+Albania,AL,ALB,2009,96.7
+Albania,AL,ALB,2018,98.6
+Algeria,DZ,DZA,2000,92
+Algeria,DZ,DZA,2002,90.2
+Algeria,DZ,DZA,2006,95.3
+Algeria,DZ,DZA,2013,96.8
+Algeria,DZ,DZA,2019,98.6
+Angola,AO,AGO,2007,45.8
+Angola,AO,AGO,2016,45.6
+Argentina,AR,ARG,2000,97.9
+Argentina,AR,ARG,2004,98.7
+Argentina,AR,ARG,2005,98.7
+Argentina,AR,ARG,2006,99.2
+Argentina,AR,ARG,2007,98.8
+Argentina,AR,ARG,2008,99.4
+Argentina,AR,ARG,2009,99.4
+Argentina,AR,ARG,2010,98.7
+Argentina,AR,ARG,2011,99
+Argentina,AR,ARG,2012,99
+Argentina,AR,ARG,2013,99.3
+Argentina,AR,ARG,2020,99.5
+Armenia,AM,ARM,2000,91.3
+Armenia,AM,ARM,2005,96.5
+Armenia,AM,ARM,2007,99.7
+Armenia,AM,ARM,2010,99.4
+Armenia,AM,ARM,2016,99.3
+Australia,AU,AUS,2000,99.3
+Australia,AU,AUS,2001,99.3
+Australia,AU,AUS,2002,99.3
+Australia,AU,AUS,2003,99.3
+Australia,AU,AUS,2004,99.3
+Australia,AU,AUS,2005,99.4
+Australia,AU,AUS,2006,99.3
+Australia,AU,AUS,2007,99.2
+Australia,AU,AUS,2008,99.1
+Australia,AU,AUS,2009,99.1
+Australia,AU,AUS,2010,99.1
+Australia,AU,AUS,2011,99.1
+Australia,AU,AUS,2013,99.3
+Austria,AT,AUT,2000,98.3
+Austria,AT,AUT,2001,98.3
+Austria,AT,AUT,2002,98.4
+Austria,AT,AUT,2003,98.4
+Austria,AT,AUT,2004,98.4
+Austria,AT,AUT,2005,98.6
+Austria,AT,AUT,2006,98.6
+Austria,AT,AUT,2007,98.5
+Austria,AT,AUT,2008,98.6
+Austria,AT,AUT,2009,98.6
+Austria,AT,AUT,2010,98.5
+Austria,AT,AUT,2011,98.6
+Austria,AT,AUT,2012,98.5
+Austria,AT,AUT,2014,98.5
+Azerbaijan,AZ,AZE,2001,73.7
+Azerbaijan,AZ,AZE,2006,77.7
+Azerbaijan,AZ,AZE,2011,93.1
+Azerbaijan,AZ,AZE,2013,95.7
+Bahrain,BH,BHR,2000,97.7
+Bahrain,BH,BHR,2001,97.5
+Bahrain,BH,BHR,2002,97.6
+Bahrain,BH,BHR,2003,97.8
+Bahrain,BH,BHR,2006,97.5
+Bahrain,BH,BHR,2007,97.4
+Bahrain,BH,BHR,2008,97.5
+Bangladesh,BD,BGD,2000,7.9
+Bangladesh,BD,BGD,2001,9.2
+Bangladesh,BD,BGD,2004,9.3
+Bangladesh,BD,BGD,2006,16
+Bangladesh,BD,BGD,2007,14.7
+Bangladesh,BD,BGD,2010,23.4
+Bangladesh,BD,BGD,2011,28.8
+Bangladesh,BD,BGD,2013,31
+Bangladesh,BD,BGD,2014,37.4
+Bangladesh,BD,BGD,2018,49.4
+Bangladesh,BD,BGD,2019,53.4
+Barbados,BB,BRB,2012,100
+Belarus,BY,BLR,2005,99.9
+Belarus,BY,BLR,2012,99.9
+Belarus,BY,BLR,2019,99.6
+Belize,BZ,BLZ,2000,76.8
+Belize,BZ,BLZ,2001,78.9
+Belize,BZ,BLZ,2002,76.9
+Belize,BZ,BLZ,2003,76.5
+Belize,BZ,BLZ,2004,76.1
+Belize,BZ,BLZ,2005,76.8
+Belize,BZ,BLZ,2006,88.2
+Belize,BZ,BLZ,2007,86.9
+Belize,BZ,BLZ,2008,88.1
+Belize,BZ,BLZ,2009,90.6
+Belize,BZ,BLZ,2010,94.3
+Belize,BZ,BLZ,2011,93.8
+Belize,BZ,BLZ,2016,96.4
+Benin,BJ,BEN,2001,76
+Benin,BJ,BEN,2006,78.1
+Benin,BJ,BEN,2012,86.9
+Benin,BJ,BEN,2014,87
+Benin,BJ,BEN,2018,83.9
+Bhutan,BT,BTN,2003,36.5
+Bhutan,BT,BTN,2007,55
+Bhutan,BT,BTN,2010,63.1
+Bhutan,BT,BTN,2012,73.8
+Bhutan,BT,BTN,2017,93.6
+"Bolivia, Plurinational State of",BO,BOL,2002,56.9
+"Bolivia, Plurinational State of",BO,BOL,2004,57.1
+"Bolivia, Plurinational State of",BO,BOL,2008,67.5
+"Bolivia, Plurinational State of",BO,BOL,2009,67
+"Bolivia, Plurinational State of",BO,BOL,2010,69.9
+"Bolivia, Plurinational State of",BO,BOL,2011,72.6
+"Bolivia, Plurinational State of",BO,BOL,2012,82.1
+"Bolivia, Plurinational State of",BO,BOL,2013,83.3
+"Bolivia, Plurinational State of",BO,BOL,2014,83.1
+"Bolivia, Plurinational State of",BO,BOL,2015,87.7
+"Bolivia, Plurinational State of",BO,BOL,2016,87.7
+"Bolivia, Plurinational State of",BO,BOL,2017,84.9
+"Bolivia, Plurinational State of",BO,BOL,2018,82.7
+"Bolivia, Plurinational State of",BO,BOL,2019,80.2
+Bosnia and Herzegovina,BA,BIH,2006,99.7
+Bosnia and Herzegovina,BA,BIH,2012,99.7
+Botswana,BW,BWA,2007,93.8
+Botswana,BW,BWA,2009,99.5
+Botswana,BW,BWA,2010,99
+Botswana,BW,BWA,2011,99.8
+Botswana,BW,BWA,2012,99.8
+Botswana,BW,BWA,2013,99.9
+Botswana,BW,BWA,2015,99.7
+Brazil,BR,BRA,2000,98.6
+Brazil,BR,BRA,2001,98.4
+Brazil,BR,BRA,2002,98.5
+Brazil,BR,BRA,2003,98.4
+Brazil,BR,BRA,2004,98.6
+Brazil,BR,BRA,2005,98.6
+Brazil,BR,BRA,2006,98.7
+Brazil,BR,BRA,2007,98.6
+Brazil,BR,BRA,2008,98.8
+Brazil,BR,BRA,2009,98.9
+Brazil,BR,BRA,2010,99
+Brazil,BR,BRA,2011,99
+Brazil,BR,BRA,2012,99
+Brazil,BR,BRA,2013,99.1
+Brazil,BR,BRA,2014,99.1
+Brazil,BR,BRA,2015,99.1
+Brazil,BR,BRA,2016,99.1
+Brazil,BR,BRA,2017,99.1
+Brazil,BR,BRA,2018,99.1
+Brazil,BR,BRA,2019,99.1
+Brunei,BN,BRN,2002,99.4
+Brunei,BN,BRN,2003,99.4
+Brunei,BN,BRN,2004,99.4
+Brunei,BN,BRN,2005,99.6
+Brunei,BN,BRN,2006,99.6
+Brunei,BN,BRN,2007,99.9
+Brunei,BN,BRN,2008,99.7
+Brunei,BN,BRN,2009,99.8
+Brunei,BN,BRN,2010,99.8
+Brunei,BN,BRN,2011,99.6
+Brunei,BN,BRN,2012,99.8
+Bulgaria,BG,BGR,2007,99.6
+Bulgaria,BG,BGR,2009,93.7
+Bulgaria,BG,BGR,2010,92.7
+Bulgaria,BG,BGR,2013,99.7
+Bulgaria,BG,BGR,2014,93.7
+Bulgaria,BG,BGR,2015,93.8
+Bulgaria,BG,BGR,2018,99.7
+Burkina Faso,BF,BFA,2003,38.4
+Burkina Faso,BF,BFA,2006,50.5
+Burkina Faso,BF,BFA,2010,66.3
+Burkina Faso,BF,BFA,2015,82.2
+Burundi,BI,BDI,2005,28.5
+Burundi,BI,BDI,2010,59.5
+Burundi,BI,BDI,2012,78.2
+Burundi,BI,BDI,2017,83.9
+Cape Verde,CV,CPV,2005,77.8
+Cape Verde,CV,CPV,2006,76.4
+Cape Verde,CV,CPV,2007,74.4
+Cape Verde,CV,CPV,2008,74.6
+Cape Verde,CV,CPV,2009,75.6
+Cape Verde,CV,CPV,2018,97
+Cambodia,KH,KHM,2000,9.9
+Cambodia,KH,KHM,2006,21.5
+Cambodia,KH,KHM,2011,53.8
+Cambodia,KH,KHM,2014,83.2
+Cameroon,CM,CMR,2004,59
+Cameroon,CM,CMR,2006,61.3
+Cameroon,CM,CMR,2011,61.2
+Cameroon,CM,CMR,2014,61.3
+Cameroon,CM,CMR,2018,67
+Canada,CA,CAN,2000,99.3
+Canada,CA,CAN,2001,99.3
+Canada,CA,CAN,2002,99.3
+Canada,CA,CAN,2003,98.9
+Canada,CA,CAN,2004,99
+Canada,CA,CAN,2005,98.8
+Canada,CA,CAN,2006,98.8
+Canada,CA,CAN,2007,98.8
+Canada,CA,CAN,2008,98.7
+Canada,CA,CAN,2009,98.6
+Canada,CA,CAN,2010,98.5
+Canada,CA,CAN,2011,98.4
+Central African Republic,CF,CAF,2006,51
+Central African Republic,CF,CAF,2009,55.8
+Central African Republic,CF,CAF,2010,52.5
+Central African Republic,CF,CAF,2019,58.3
+Chad,TD,TCD,2004,13.2
+Chad,TD,TCD,2010,15.8
+Chad,TD,TCD,2015,21.7
+Chad,TD,TCD,2019,27.2
+Chile,CL,CHL,2000,99
+Chile,CL,CHL,2002,99.8
+Chile,CL,CHL,2003,97.7
+Chile,CL,CHL,2007,97.5
+Chile,CL,CHL,2008,99.8
+Chile,CL,CHL,2009,99.8
+Chile,CL,CHL,2010,99.7
+Chile,CL,CHL,2011,99.8
+Chile,CL,CHL,2012,99.8
+Chile,CL,CHL,2014,99.7
+China,CN,CHN,2000,72.9
+China,CN,CHN,2001,76
+China,CN,CHN,2002,78.7
+China,CN,CHN,2003,79.4
+China,CN,CHN,2004,82.8
+China,CN,CHN,2005,85.9
+China,CN,CHN,2006,88.4
+China,CN,CHN,2007,91.7
+China,CN,CHN,2008,94.5
+China,CN,CHN,2009,96.3
+China,CN,CHN,2010,97.8
+China,CN,CHN,2011,98.7
+China,CN,CHN,2012,99.2
+China,CN,CHN,2013,99.5
+China,CN,CHN,2014,99.6
+China,CN,CHN,2015,99.7
+China,CN,CHN,2016,99.8
+China,CN,CHN,2017,99.9
+China,CN,CHN,2018,99.9
+China,CN,CHN,2019,99.9
+China,CN,CHN,2020,99.9
+Colombia,CO,COL,2000,87.5
+Colombia,CO,COL,2005,92
+Colombia,CO,COL,2010,95.4
+Colombia,CO,COL,2011,99.2
+Colombia,CO,COL,2012,99.1
+Colombia,CO,COL,2013,98.9
+Colombia,CO,COL,2016,96.9
+Comoros,KM,COM,2012,76.1
+Congo,CG,COG,2005,82.2
+Congo,CG,COG,2012,91.5
+Congo,CG,COG,2015,91.5
+Cook Islands,CK,COK,2009,99.6
+Costa Rica,CR,CRI,2005,94.4
+Costa Rica,CR,CRI,2007,94.4
+Costa Rica,CR,CRI,2008,99
+Costa Rica,CR,CRI,2009,98.9
+Costa Rica,CR,CRI,2010,99
+Costa Rica,CR,CRI,2011,98.1
+Costa Rica,CR,CRI,2014,99.2
+Costa Rica,CR,CRI,2018,97.8
+Cuba,CU,CUB,2000,99.9
+Cuba,CU,CUB,2001,99.9
+Cuba,CU,CUB,2002,99.9
+Cuba,CU,CUB,2003,99.9
+Cuba,CU,CUB,2004,99.9
+Cuba,CU,CUB,2005,99.9
+Cuba,CU,CUB,2006,99.9
+Cuba,CU,CUB,2007,99.9
+Cuba,CU,CUB,2008,99.9
+Cuba,CU,CUB,2009,99.9
+Cuba,CU,CUB,2010,99.9
+Cuba,CU,CUB,2011,99.9
+Cuba,CU,CUB,2012,99.9
+Cuba,CU,CUB,2013,99.9
+Cuba,CU,CUB,2014,99
+Cuba,CU,CUB,2015,99.9
+Cuba,CU,CUB,2019,99.8
+Cyprus,CY,CYP,2000,97.9
+Cyprus,CY,CYP,2001,83.8
+Cyprus,CY,CYP,2002,87.4
+Cyprus,CY,CYP,2003,83
+Cyprus,CY,CYP,2004,95.7
+Cyprus,CY,CYP,2005,99.3
+Cyprus,CY,CYP,2006,98.5
+Cyprus,CY,CYP,2007,98.3
+Cyprus,CY,CYP,2008,97.2
+Cyprus,CY,CYP,2009,98.3
+Cyprus,CY,CYP,2010,98.6
+Cyprus,CY,CYP,2011,98.3
+Cyprus,CY,CYP,2012,98.7
+Cyprus,CY,CYP,2013,98.4
+Cyprus,CY,CYP,2014,97.4
+Czech Republic,CZ,CZE,2000,99.8
+Czech Republic,CZ,CZE,2001,99.8
+Czech Republic,CZ,CZE,2002,99.8
+Czech Republic,CZ,CZE,2003,99.8
+Czech Republic,CZ,CZE,2004,99.8
+Czech Republic,CZ,CZE,2005,99.8
+Czech Republic,CZ,CZE,2006,99.7
+Czech Republic,CZ,CZE,2007,99.7
+Czech Republic,CZ,CZE,2008,99.6
+Czech Republic,CZ,CZE,2009,99.6
+Czech Republic,CZ,CZE,2010,99.7
+Czech Republic,CZ,CZE,2011,99.9
+Czech Republic,CZ,CZE,2012,99.9
+Czech Republic,CZ,CZE,2013,99.8
+Ivory Coast,CI,CIV,2005,55.5
+Ivory Coast,CI,CIV,2006,53.8
+Ivory Coast,CI,CIV,2012,57.4
+Ivory Coast,CI,CIV,2016,69.8
+"Korea, Democratic People's Republic of",KP,PRK,2009,94.7
+"Korea, Democratic People's Republic of",KP,PRK,2017,92.2
+"Congo, the Democratic Republic of the",CD,COD,2007,70.1
+"Congo, the Democratic Republic of the",CD,COD,2010,74.9
+"Congo, the Democratic Republic of the",CD,COD,2014,79.9
+"Congo, the Democratic Republic of the",CD,COD,2018,81.5
+Djibouti,DJ,DJI,2002,74.1
+Djibouti,DJ,DJI,2006,87.4
+Djibouti,DJ,DJI,2012,86.7
+Dominican Republic,DO,DOM,2002,97.9
+Dominican Republic,DO,DOM,2006,95.3
+Dominican Republic,DO,DOM,2007,97.5
+Dominican Republic,DO,DOM,2009,94
+Dominican Republic,DO,DOM,2013,98.5
+Dominican Republic,DO,DOM,2014,97.9
+Dominican Republic,DO,DOM,2019,97.7
+Ecuador,EC,ECU,2004,74.1
+Ecuador,EC,ECU,2006,84.6
+Ecuador,EC,ECU,2010,92
+Ecuador,EC,ECU,2012,92.3
+Ecuador,EC,ECU,2014,93.3
+Egypt,EG,EGY,2000,48.2
+Egypt,EG,EGY,2003,59
+Egypt,EG,EGY,2005,64.6
+Egypt,EG,EGY,2008,71.7
+Egypt,EG,EGY,2014,86.7
+El Salvador,SV,SLV,2003,69.4
+El Salvador,SV,SLV,2008,84.6
+El Salvador,SV,SLV,2010,78.3
+El Salvador,SV,SLV,2011,90.3
+El Salvador,SV,SLV,2012,91.6
+El Salvador,SV,SLV,2013,95.7
+El Salvador,SV,SLV,2014,97.5
+Equatorial Guinea,GQ,GNQ,2011,67.3
+Eritrea,ER,ERI,2002,26.4
+Eritrea,ER,ERI,2010,33.7
+Estonia,EE,EST,2000,99.5
+Estonia,EE,EST,2001,99.6
+Estonia,EE,EST,2002,99.5
+Estonia,EE,EST,2003,99.4
+Estonia,EE,EST,2004,99.7
+Estonia,EE,EST,2005,99.6
+Estonia,EE,EST,2006,99.5
+Estonia,EE,EST,2007,99.4
+Estonia,EE,EST,2008,99.3
+Estonia,EE,EST,2009,99.2
+Estonia,EE,EST,2010,99.3
+Estonia,EE,EST,2011,99.4
+Estonia,EE,EST,2012,99.3
+Estonia,EE,EST,2013,99.4
+Estonia,EE,EST,2014,99.4
+Estonia,EE,EST,2015,99.5
+Estonia,EE,EST,2016,99.4
+Estonia,EE,EST,2017,99.2
+Estonia,EE,EST,2018,99.1
+Estonia,EE,EST,2019,99.4
+Swaziland,SZ,SWZ,2007,74.1
+Swaziland,SZ,SWZ,2010,80.4
+Swaziland,SZ,SWZ,2014,87.7
+Ethiopia,ET,ETH,2000,5
+Ethiopia,ET,ETH,2005,5.3
+Ethiopia,ET,ETH,2011,9.9
+Ethiopia,ET,ETH,2014,16.4
+Ethiopia,ET,ETH,2016,26.2
+Ethiopia,ET,ETH,2019,47.5
+Fiji,FJ,FJI,2000,96.9
+Fiji,FJ,FJI,2001,98.4
+Fiji,FJ,FJI,2002,96.9
+Fiji,FJ,FJI,2003,96.7
+Fiji,FJ,FJI,2004,97
+Fiji,FJ,FJI,2005,97.2
+Fiji,FJ,FJI,2013,98.7
+Finland,FI,FIN,2000,98.4
+Finland,FI,FIN,2001,98.5
+Finland,FI,FIN,2002,99.8
+Finland,FI,FIN,2003,99.8
+Finland,FI,FIN,2004,99.8
+Finland,FI,FIN,2005,99.8
+Finland,FI,FIN,2006,99.8
+Finland,FI,FIN,2007,99.8
+Finland,FI,FIN,2008,99.8
+Finland,FI,FIN,2009,99.8
+Finland,FI,FIN,2010,99.8
+Finland,FI,FIN,2011,99.7
+Finland,FI,FIN,2012,99.8
+Finland,FI,FIN,2014,99.7
+Finland,FI,FIN,2015,99.9
+France,FR,FRA,2001,99.6
+France,FR,FRA,2004,98
+France,FR,FRA,2005,97.9
+France,FR,FRA,2006,98.3
+France,FR,FRA,2007,98.1
+France,FR,FRA,2008,98
+France,FR,FRA,2009,97.9
+France,FR,FRA,2010,97.5
+France,FR,FRA,2011,96.2
+France,FR,FRA,2012,97.1
+France,FR,FRA,2013,98.3
+Gabon,GA,GAB,2001,84.8
+Gabon,GA,GAB,2012,90.2
+Gambia,GM,GMB,2006,54.5
+Gambia,GM,GMB,2010,55.7
+Gambia,GM,GMB,2013,62.6
+Gambia,GM,GMB,2018,81.5
+Gambia,GM,GMB,2020,83.7
+Georgia,GE,GEO,2000,92.2
+Georgia,GE,GEO,2005,95.5
+Georgia,GE,GEO,2009,99.7
+Georgia,GE,GEO,2010,98.3
+Georgia,GE,GEO,2013,99.8
+Georgia,GE,GEO,2014,99.9
+Georgia,GE,GEO,2016,99.8
+Georgia,GE,GEO,2018,99.4
+Germany,DE,DEU,2000,98.6
+Germany,DE,DEU,2001,98.6
+Germany,DE,DEU,2002,98.6
+Germany,DE,DEU,2003,98.6
+Germany,DE,DEU,2004,98.2
+Germany,DE,DEU,2005,98.2
+Germany,DE,DEU,2006,98.4
+Germany,DE,DEU,2007,98.4
+Germany,DE,DEU,2008,98.5
+Germany,DE,DEU,2009,98.3
+Germany,DE,DEU,2010,98.3
+Germany,DE,DEU,2011,98.3
+Germany,DE,DEU,2012,98.5
+Germany,DE,DEU,2013,98.5
+Germany,DE,DEU,2014,98.5
+Ghana,GH,GHA,2003,45.7
+Ghana,GH,GHA,2006,48.7
+Ghana,GH,GHA,2007,54.3
+Ghana,GH,GHA,2008,57.1
+Ghana,GH,GHA,2011,67.4
+Ghana,GH,GHA,2014,73.1
+Ghana,GH,GHA,2017,78.7
+Ghana,GH,GHA,2018,77.9
+Guatemala,GT,GTM,2002,42.1
+Guatemala,GT,GTM,2009,51.3
+Guatemala,GT,GTM,2013,63.1
+Guatemala,GT,GTM,2015,65
+Guinea,GN,GIN,2005,30.8
+Guinea,GN,GIN,2008,39.4
+Guinea,GN,GIN,2012,40.3
+Guinea,GN,GIN,2016,57.2
+Guinea,GN,GIN,2018,52.6
+Guinea-Bissau,GW,GNB,2006,35.9
+Guinea-Bissau,GW,GNB,2010,41.4
+Guinea-Bissau,GW,GNB,2014,44
+Guinea-Bissau,GW,GNB,2019,50.4
+Guyana,GY,GUY,2007,82.6
+Guyana,GY,GUY,2009,89
+Guyana,GY,GUY,2014,92.7
+Guyana,GY,GUY,2020,97.7
+Haiti,HT,HTI,2000,23.2
+Haiti,HT,HTI,2006,24.7
+Haiti,HT,HTI,2012,35.9
+Haiti,HT,HTI,2017,39.4
+Honduras,HN,HND,2000,55.2
+Honduras,HN,HND,2006,66.5
+Honduras,HN,HND,2012,82.7
+Honduras,HN,HND,2019,92
+India,IN,IND,2000,34.5
+India,IN,IND,2005,34.5
+India,IN,IND,2006,38.7
+India,IN,IND,2007,38.6
+India,IN,IND,2008,46.9
+India,IN,IND,2009,57.7
+India,IN,IND,2010,60.5
+India,IN,IND,2011,66.6
+India,IN,IND,2013,74.4
+India,IN,IND,2014,78.7
+India,IN,IND,2016,78.9
+Indonesia,ID,IDN,2003,39.7
+Indonesia,ID,IDN,2007,46.1
+Indonesia,ID,IDN,2010,55.4
+Indonesia,ID,IDN,2012,63.2
+Indonesia,ID,IDN,2013,70.4
+Indonesia,ID,IDN,2016,79.7
+Indonesia,ID,IDN,2017,79
+"Iran, Islamic Republic of",IR,IRN,2000,83.6
+"Iran, Islamic Republic of",IR,IRN,2005,96.3
+"Iran, Islamic Republic of",IR,IRN,2010,95.3
+Iraq,IQ,IRQ,2006,62.6
+Iraq,IQ,IRQ,2007,65.1
+Iraq,IQ,IRQ,2011,76.6
+Iraq,IQ,IRQ,2018,86.6
+Ireland,IE,IRL,2000,99.6
+Ireland,IE,IRL,2001,99.6
+Ireland,IE,IRL,2002,99.5
+Ireland,IE,IRL,2003,99.6
+Ireland,IE,IRL,2004,99.7
+Ireland,IE,IRL,2005,99.7
+Ireland,IE,IRL,2006,99.7
+Ireland,IE,IRL,2007,99.7
+Ireland,IE,IRL,2008,99.8
+Ireland,IE,IRL,2009,99.8
+Ireland,IE,IRL,2010,99.8
+Ireland,IE,IRL,2011,99.8
+Ireland,IE,IRL,2012,99.8
+Ireland,IE,IRL,2013,99.8
+Ireland,IE,IRL,2014,99.7
+Italy,IT,ITA,2000,99.8
+Italy,IT,ITA,2002,99.6
+Italy,IT,ITA,2003,99.6
+Italy,IT,ITA,2004,99.8
+Italy,IT,ITA,2005,99.8
+Italy,IT,ITA,2006,99.8
+Italy,IT,ITA,2007,99.6
+Italy,IT,ITA,2008,99.8
+Italy,IT,ITA,2009,99.8
+Italy,IT,ITA,2010,99.9
+Italy,IT,ITA,2011,99.9
+Italy,IT,ITA,2013,99.9
+Jamaica,JM,JAM,2000,99.3
+Jamaica,JM,JAM,2001,96.8
+Jamaica,JM,JAM,2002,97.3
+Jamaica,JM,JAM,2003,97.4
+Jamaica,JM,JAM,2004,98.2
+Jamaica,JM,JAM,2005,94.4
+Jamaica,JM,JAM,2009,97.1
+Jamaica,JM,JAM,2011,98.6
+Jamaica,JM,JAM,2018,99.3
+Japan,JP,JPN,2000,99.8
+Japan,JP,JPN,2001,99.8
+Japan,JP,JPN,2002,99.8
+Japan,JP,JPN,2003,99.8
+Japan,JP,JPN,2004,99.8
+Japan,JP,JPN,2005,99.8
+Japan,JP,JPN,2006,99.8
+Japan,JP,JPN,2007,99.8
+Japan,JP,JPN,2008,99.8
+Japan,JP,JPN,2009,99.8
+Japan,JP,JPN,2010,99.8
+Japan,JP,JPN,2011,99.8
+Japan,JP,JPN,2012,99.8
+Japan,JP,JPN,2014,99.8
+Jordan,JO,JOR,2002,96.9
+Jordan,JO,JOR,2007,98.7
+Jordan,JO,JOR,2012,98.8
+Jordan,JO,JOR,2018,98.1
+Kazakhstan,KZ,KAZ,2006,99.8
+Kazakhstan,KZ,KAZ,2011,99.6
+Kazakhstan,KZ,KAZ,2013,99.8
+Kazakhstan,KZ,KAZ,2015,99.3
+Kenya,KE,KEN,2003,40.1
+Kenya,KE,KEN,2006,39.1
+Kenya,KE,KEN,2009,42.6
+Kenya,KE,KEN,2014,61.2
+Kiribati,KI,KIR,2009,65.9
+Kiribati,KI,KIR,2019,86.1
+Kuwait,KW,KWT,2004,98.3
+Kuwait,KW,KWT,2005,98.6
+Kuwait,KW,KWT,2006,98.7
+Kuwait,KW,KWT,2007,98.7
+Kuwait,KW,KWT,2008,98.7
+Kuwait,KW,KWT,2009,98.7
+Kuwait,KW,KWT,2010,98.6
+Kuwait,KW,KWT,2011,98.8
+Kuwait,KW,KWT,2012,98.8
+Kuwait,KW,KWT,2013,99.9
+Kuwait,KW,KWT,2014,98.7
+Kyrgyzstan,KG,KGZ,2006,96.9
+Kyrgyzstan,KG,KGZ,2012,98.9
+Kyrgyzstan,KG,KGZ,2014,98.3
+Kyrgyzstan,KG,KGZ,2018,99.6
+Kyrgyzstan,KG,KGZ,2020,100
+Lao People's Democratic Republic,LA,LAO,2005,12.8
+Lao People's Democratic Republic,LA,LAO,2006,17.1
+Lao People's Democratic Republic,LA,LAO,2012,37.5
+Lao People's Democratic Republic,LA,LAO,2017,64.5
+Latvia,LV,LVA,2007,99.4
+Latvia,LV,LVA,2008,99.1
+Latvia,LV,LVA,2009,98.9
+Latvia,LV,LVA,2010,98.8
+Latvia,LV,LVA,2011,98.6
+Latvia,LV,LVA,2012,98.6
+Latvia,LV,LVA,2013,98.4
+Latvia,LV,LVA,2014,98.1
+Lebanon,LB,LBN,2000,99.9
+Lesotho,LS,LSO,2005,52.4
+Lesotho,LS,LSO,2009,58.7
+Lesotho,LS,LSO,2014,76.5
+Lesotho,LS,LSO,2018,89.4
+Liberia,LR,LBR,2000,36.2
+Liberia,LR,LBR,2007,36.9
+Liberia,LR,LBR,2013,55.8
+Liberia,LR,LBR,2020,79.8
+Libyan Arab Jamahiriya,LY,LBY,2007,98.3
+Libyan Arab Jamahiriya,LY,LBY,2010,99.9
+Libyan Arab Jamahiriya,LY,LBY,2013,99.9
+Luxembourg,LU,LUX,2003,99.9
+Luxembourg,LU,LUX,2009,99.9
+Madagascar,MG,MDG,2004,31.8
+Madagascar,MG,MDG,2009,35.3
+Madagascar,MG,MDG,2013,37.9
+Madagascar,MG,MDG,2018,38.7
+Malawi,MW,MWI,2000,55.4
+Malawi,MW,MWI,2005,57.2
+Malawi,MW,MWI,2006,53.8
+Malawi,MW,MWI,2010,73.2
+Malawi,MW,MWI,2014,88.9
+Malawi,MW,MWI,2016,91.4
+Malawi,MW,MWI,2020,96.7
+Malaysia,MY,MYS,2003,96.2
+Malaysia,MY,MYS,2005,98
+Malaysia,MY,MYS,2009,98.6
+Malaysia,MY,MYS,2012,98.7
+Malaysia,MY,MYS,2013,98.8
+Malaysia,MY,MYS,2014,98.9
+Maldives,MV,MDV,2009,95.1
+Maldives,MV,MDV,2017,94.5
+Mali,ML,MLI,2001,37.8
+Mali,ML,MLI,2006,45.1
+Mali,ML,MLI,2010,55.5
+Mali,ML,MLI,2013,55
+Mali,ML,MLI,2015,64.5
+Mali,ML,MLI,2018,66.8
+Malta,MT,MLT,2001,99.9
+Malta,MT,MLT,2002,99.5
+Malta,MT,MLT,2003,99.5
+Malta,MT,MLT,2004,99.9
+Malta,MT,MLT,2005,99.7
+Malta,MT,MLT,2006,98.8
+Malta,MT,MLT,2007,99.8
+Malta,MT,MLT,2008,99.9
+Malta,MT,MLT,2009,99.8
+Malta,MT,MLT,2010,99.8
+Malta,MT,MLT,2011,99.8
+Malta,MT,MLT,2012,99.5
+Malta,MT,MLT,2013,99.9
+Marshall Islands,MH,MHL,2007,85.1
+Mauritania,MR,MRT,2001,48.5
+Mauritania,MR,MRT,2007,48.4
+Mauritania,MR,MRT,2011,64.5
+Mauritania,MR,MRT,2015,69.3
+Mauritius,MU,MUS,2003,98.4
+Mexico,MX,MEX,2002,94.8
+Mexico,MX,MEX,2003,95
+Mexico,MX,MEX,2004,83.3
+Mexico,MX,MEX,2005,86.1
+Mexico,MX,MEX,2007,80.2
+Mexico,MX,MEX,2012,94.2
+Mexico,MX,MEX,2014,95.6
+Mexico,MX,MEX,2015,96.9
+"Micronesia, Federated States of",FM,FSM,2006,87
+Mongolia,MN,MNG,2003,97.3
+Mongolia,MN,MNG,2005,98.6
+Mongolia,MN,MNG,2008,98.3
+Mongolia,MN,MNG,2010,98.5
+Mongolia,MN,MNG,2014,98.4
+Mongolia,MN,MNG,2018,98.4
+Montenegro,ME,MNE,2001,96.6
+Montenegro,ME,MNE,2002,98
+Montenegro,ME,MNE,2003,98.9
+Montenegro,ME,MNE,2004,98.3
+Montenegro,ME,MNE,2005,99
+Montenegro,ME,MNE,2006,99.5
+Montenegro,ME,MNE,2007,99.7
+Montenegro,ME,MNE,2008,99.9
+Montenegro,ME,MNE,2009,100
+Montenegro,ME,MNE,2013,99
+Montenegro,ME,MNE,2018,98.6
+Morocco,MA,MAR,2004,60.8
+Morocco,MA,MAR,2011,72.7
+Morocco,MA,MAR,2018,86.1
+Mozambique,MZ,MOZ,2003,47.6
+Mozambique,MZ,MOZ,2004,46.8
+Mozambique,MZ,MOZ,2005,48.5
+Mozambique,MZ,MOZ,2006,48.4
+Mozambique,MZ,MOZ,2007,51.6
+Mozambique,MZ,MOZ,2008,58
+Mozambique,MZ,MOZ,2011,54.8
+Burma,MM,MMR,2001,16
+Burma,MM,MMR,2007,22.8
+Burma,MM,MMR,2010,36.2
+Burma,MM,MMR,2016,37.1
+Namibia,,NAM,2000,74.7
+Namibia,,NAM,2007,80.8
+Namibia,,NAM,2013,87.4
+Nauru,NR,NRU,2007,98.7
+Nepal,NP,NPL,2001,9.1
+Nepal,NP,NPL,2004,15.4
+Nepal,NP,NPL,2006,17.7
+Nepal,NP,NPL,2011,35.3
+Nepal,NP,NPL,2014,55.2
+Nepal,NP,NPL,2016,57.4
+Nepal,NP,NPL,2019,77.5
+New Zealand,NZ,NZL,2000,97.3
+New Zealand,NZ,NZL,2001,96.6
+New Zealand,NZ,NZL,2002,99.2
+New Zealand,NZ,NZL,2003,98.2
+New Zealand,NZ,NZL,2004,94
+New Zealand,NZ,NZL,2005,94
+New Zealand,NZ,NZL,2006,97.9
+New Zealand,NZ,NZL,2007,95.7
+New Zealand,NZ,NZL,2010,96.2
+New Zealand,NZ,NZL,2011,96.7
+New Zealand,NZ,NZL,2014,96.6
+Nicaragua,NI,NIC,2001,66.3
+Nicaragua,NI,NIC,2007,73.8
+Nicaragua,NI,NIC,2011,85.6
+Nicaragua,NI,NIC,2012,88.2
+Nicaragua,NI,NIC,2013,71
+Niger,NE,NER,2006,17.2
+Niger,NE,NER,2012,29.8
+Niger,NE,NER,2015,58.8
+Nigeria,NG,NGA,2003,32.6
+Nigeria,NG,NGA,2008,35
+Nigeria,NG,NGA,2011,45.1
+Nigeria,NG,NGA,2013,35.8
+Nigeria,NG,NGA,2017,37.5
+Nigeria,NG,NGA,2018,39.4
+"Macedonia, the former Yugoslav Republic of",MK,MKD,2002,98.2
+"Macedonia, the former Yugoslav Republic of",MK,MKD,2006,98.2
+"Macedonia, the former Yugoslav Republic of",MK,MKD,2011,98.4
+"Macedonia, the former Yugoslav Republic of",MK,MKD,2015,99.9
+"Macedonia, the former Yugoslav Republic of",MK,MKD,2019,99.1
+Norway,NO,NOR,2000,99
+Norway,NO,NOR,2001,99.1
+Norway,NO,NOR,2002,99.1
+Norway,NO,NOR,2003,99
+Norway,NO,NOR,2004,99.1
+Norway,NO,NOR,2005,99.2
+Norway,NO,NOR,2006,99.2
+Norway,NO,NOR,2007,99.1
+Norway,NO,NOR,2008,99.2
+Norway,NO,NOR,2009,99.2
+Norway,NO,NOR,2010,99.1
+Norway,NO,NOR,2011,99.2
+Norway,NO,NOR,2012,99.2
+Norway,NO,NOR,2013,99.1
+Norway,NO,NOR,2014,99.1
+Oman,OM,OMN,2000,93.6
+Oman,OM,OMN,2006,98.1
+Oman,OM,OMN,2007,98.6
+Oman,OM,OMN,2008,97.4
+Oman,OM,OMN,2014,99.2
+Pakistan,PK,PAK,2000,22.9
+Pakistan,PK,PAK,2002,21
+Pakistan,PK,PAK,2003,28.4
+Pakistan,PK,PAK,2005,28
+Pakistan,PK,PAK,2006,48
+Pakistan,PK,PAK,2007,34.3
+Pakistan,PK,PAK,2008,36
+Pakistan,PK,PAK,2009,35
+Pakistan,PK,PAK,2011,41
+Pakistan,PK,PAK,2012,48
+Pakistan,PK,PAK,2013,48.2
+Pakistan,PK,PAK,2014,56
+Pakistan,PK,PAK,2015,55
+Pakistan,PK,PAK,2018,66.2
+Pakistan,PK,PAK,2019,71.1
+Pakistan,PK,PAK,2020,70
+Palau,PW,PLW,2010,100
+Panama,PA,PAN,2003,92.1
+Panama,PA,PAN,2009,88.2
+Panama,PA,PAN,2013,91.2
+Panama,PA,PAN,2015,96
+Papua New Guinea,PG,PNG,2006,51.8
+Papua New Guinea,PG,PNG,2007,41
+Papua New Guinea,PG,PNG,2008,43
+Papua New Guinea,PG,PNG,2009,42
+Papua New Guinea,PG,PNG,2010,40
+Papua New Guinea,PG,PNG,2011,40
+Papua New Guinea,PG,PNG,2012,44
+Papua New Guinea,PG,PNG,2013,43
+Papua New Guinea,PG,PNG,2018,54.7
+Paraguay,PY,PRY,2003,86.3
+Paraguay,PY,PRY,2004,74.1
+Paraguay,PY,PRY,2005,87.5
+Paraguay,PY,PRY,2006,90.5
+Paraguay,PY,PRY,2008,84.6
+Paraguay,PY,PRY,2009,93.2
+Paraguay,PY,PRY,2010,95.6
+Paraguay,PY,PRY,2011,96.3
+Paraguay,PY,PRY,2012,95.7
+Paraguay,PY,PRY,2015,97
+Paraguay,PY,PRY,2016,93.2
+Peru,PE,PER,2000,57.9
+Peru,PE,PER,2001,44.2
+Peru,PE,PER,2002,51.1
+Peru,PE,PER,2003,59.8
+Peru,PE,PER,2004,70.4
+Peru,PE,PER,2006,71.6
+Peru,PE,PER,2008,79.5
+Peru,PE,PER,2009,82
+Peru,PE,PER,2010,84.4
+Peru,PE,PER,2011,85.1
+Peru,PE,PER,2012,86.8
+Peru,PE,PER,2013,88.6
+Peru,PE,PER,2014,89.5
+Peru,PE,PER,2015,91
+Peru,PE,PER,2016,92.2
+Peru,PE,PER,2017,93
+Peru,PE,PER,2018,92.6
+Peru,PE,PER,2019,92.6
+Peru,PE,PER,2020,94.6
+Philippines,PH,PHL,2003,37.9
+Philippines,PH,PHL,2008,44.2
+Philippines,PH,PHL,2011,55.2
+Philippines,PH,PHL,2013,61.1
+Philippines,PH,PHL,2017,77.7
+Poland,PL,POL,2000,99.4
+Poland,PL,POL,2005,99.3
+Poland,PL,POL,2006,99.4
+Poland,PL,POL,2007,99.4
+Poland,PL,POL,2008,99.4
+Poland,PL,POL,2009,99.7
+Poland,PL,POL,2010,99.8
+Poland,PL,POL,2011,99.8
+Poland,PL,POL,2012,99.8
+Poland,PL,POL,2013,99.8
+Poland,PL,POL,2014,99.8
+Portugal,PT,PRT,2013,99
+Portugal,PT,PRT,2014,98.9
+Portugal,PT,PRT,2015,98.9
+Qatar,QA,QAT,2012,98.9
+South Korea,KR,KOR,2000,99.9
+South Korea,KR,KOR,2003,99.9
+South Korea,KR,KOR,2009,99.9
+South Korea,KR,KOR,2012,99.8
+South Korea,KR,KOR,2015,100
+"Moldova, Republic of",MD,MDA,2005,99
+"Moldova, Republic of",MD,MDA,2009,99.3
+"Moldova, Republic of",MD,MDA,2010,99.2
+"Moldova, Republic of",MD,MDA,2011,99.3
+"Moldova, Republic of",MD,MDA,2012,98.9
+Romania,RO,ROU,2004,97.8
+Romania,RO,ROU,2008,99.9
+Romania,RO,ROU,2009,99.9
+Romania,RO,ROU,2010,99.8
+Romania,RO,ROU,2011,99.9
+Romania,RO,ROU,2012,99.8
+Romania,RO,ROU,2015,94.9
+Russia,RU,RUS,2011,98.7
+Rwanda,RW,RWA,2000,26.5
+Rwanda,RW,RWA,2005,28.2
+Rwanda,RW,RWA,2008,45.2
+Rwanda,RW,RWA,2011,68.9
+Rwanda,RW,RWA,2013,90.5
+Rwanda,RW,RWA,2015,90.7
+Rwanda,RW,RWA,2020,93.1
+Saint Lucia,LC,LCA,2012,100
+Samoa,WS,WSM,2009,80.5
+Samoa,WS,WSM,2014,81.9
+Samoa,WS,WSM,2020,88.6
+Sao Tome and Principe,ST,STP,2000,58
+Sao Tome and Principe,ST,STP,2001,68
+Sao Tome and Principe,ST,STP,2002,75
+Sao Tome and Principe,ST,STP,2003,76.4
+Sao Tome and Principe,ST,STP,2006,77.8
+Sao Tome and Principe,ST,STP,2009,78.8
+Sao Tome and Principe,ST,STP,2014,91
+Sao Tome and Principe,ST,STP,2019,95.4
+Saudi Arabia,SA,SAU,2019,98.7
+Senegal,SN,SEN,2005,61.8
+Senegal,SN,SEN,2011,72.8
+Senegal,SN,SEN,2013,71.3
+Senegal,SN,SEN,2014,76.9
+Senegal,SN,SEN,2015,74.5
+Senegal,SN,SEN,2016,75.9
+Senegal,SN,SEN,2017,78.2
+Senegal,SN,SEN,2018,81.7
+Senegal,SN,SEN,2019,80.3
+Serbia,RS,SRB,2006,98.8
+Serbia,RS,SRB,2010,99.8
+Serbia,RS,SRB,2014,98.2
+Serbia,RS,SRB,2019,100
+Sierra Leone,SL,SLE,2005,18.6
+Sierra Leone,SL,SLE,2008,24.6
+Sierra Leone,SL,SLE,2010,50.1
+Sierra Leone,SL,SLE,2013,54.4
+Sierra Leone,SL,SLE,2017,76.7
+Sierra Leone,SL,SLE,2019,83.4
+Singapore,SG,SGP,2000,99.7
+Singapore,SG,SGP,2001,99.6
+Singapore,SG,SGP,2002,99.7
+Singapore,SG,SGP,2003,99.7
+Singapore,SG,SGP,2004,99.7
+Singapore,SG,SGP,2005,99.7
+Singapore,SG,SGP,2006,99.7
+Singapore,SG,SGP,2007,99.7
+Singapore,SG,SGP,2008,99.8
+Singapore,SG,SGP,2009,99.7
+Singapore,SG,SGP,2010,99.7
+Singapore,SG,SGP,2011,99.7
+Singapore,SG,SGP,2012,99.7
+Singapore,SG,SGP,2013,99.6
+Singapore,SG,SGP,2014,99.7
+Singapore,SG,SGP,2015,99.6
+Singapore,SG,SGP,2016,99.6
+Singapore,SG,SGP,2017,99.5
+Singapore,SG,SGP,2018,99.5
+Slovenia,SI,SVN,2011,99.9
+Slovenia,SI,SVN,2012,99.8
+Solomon Islands,SB,SLB,2007,84.5
+Solomon Islands,SB,SLB,2015,84.5
+Somalia,SO,SOM,2002,8.8
+Somalia,SO,SOM,2006,9.4
+Somalia,SO,SOM,2019,20.7
+South Africa,ZA,ZAF,2004,88.7
+South Africa,ZA,ZAF,2008,94.9
+South Africa,ZA,ZAF,2016,95.9
+South Sudan,SS,SSD,2010,11.5
+Sri Lanka,LK,LKA,2000,97.1
+Sri Lanka,LK,LKA,2007,98.2
+Sri Lanka,LK,LKA,2014,99.7
+Sri Lanka,LK,LKA,2016,99.5
+"Palestinian Territory, Occupied",PS,PSE,2004,96.4
+"Palestinian Territory, Occupied",PS,PSE,2006,96.6
+"Palestinian Territory, Occupied",PS,PSE,2010,98
+"Palestinian Territory, Occupied",PS,PSE,2014,99.3
+"Palestinian Territory, Occupied",PS,PSE,2020,99.4
+Sudan,SD,SDN,2010,20.5
+Sudan,SD,SDN,2014,27.7
+Suriname,SR,SUR,2006,88.3
+Suriname,SR,SUR,2010,92.3
+Suriname,SR,SUR,2018,92.9
+Syrian Arab Republic,SY,SYR,2001,54.6
+Syrian Arab Republic,SY,SYR,2006,70.4
+Syrian Arab Republic,SY,SYR,2009,78.2
+Tajikistan,TJ,TJK,2005,61.7
+Tajikistan,TJ,TJK,2007,73.3
+Tajikistan,TJ,TJK,2010,87.7
+Tajikistan,TJ,TJK,2012,76.5
+Tajikistan,TJ,TJK,2017,88.2
+Thailand,TH,THA,2006,96.7
+Thailand,TH,THA,2009,99.4
+Thailand,TH,THA,2012,99.6
+Thailand,TH,THA,2016,98.6
+Thailand,TH,THA,2019,99
+Timor-Leste,TL,TLS,2003,9.8
+Timor-Leste,TL,TLS,2010,22.1
+Timor-Leste,TL,TLS,2016,48.5
+Togo,TG,TGO,2003,60.6
+Togo,TG,TGO,2006,62.9
+Togo,TG,TGO,2010,66.5
+Togo,TG,TGO,2014,72.5
+Togo,TG,TGO,2017,80
+Tonga,TO,TON,2010,98
+Tonga,TO,TON,2012,98
+Tonga,TO,TON,2019,97.6
+Trinidad and Tobago,TT,TTO,2000,99.1
+Trinidad and Tobago,TT,TTO,2001,99.2
+Trinidad and Tobago,TT,TTO,2002,98.7
+Trinidad and Tobago,TT,TTO,2003,99.2
+Trinidad and Tobago,TT,TTO,2004,99
+Trinidad and Tobago,TT,TTO,2006,97.4
+Trinidad and Tobago,TT,TTO,2011,97.9
+Tunisia,TN,TUN,2000,89.3
+Tunisia,TN,TUN,2012,98.5
+Tunisia,TN,TUN,2018,99.7
+Turkmenistan,TM,TKM,2000,94.5
+Turkmenistan,TM,TKM,2006,97.8
+Turkmenistan,TM,TKM,2016,99.5
+Turkmenistan,TM,TKM,2019,100
+Turks and Caicos Islands,TC,TCA,2020,96.8
+Tuvalu,TV,TUV,2007,93
+Tuvalu,TV,TUV,2020,98.5
+Turkey,TR,TUR,2003,78.2
+Turkey,TR,TUR,2008,89.7
+Turkey,TR,TUR,2014,97.2
+Turkey,TR,TUR,2018,98.9
+Uganda,UG,UGA,2001,36.6
+Uganda,UG,UGA,2006,41.1
+Uganda,UG,UGA,2011,57.4
+Uganda,UG,UGA,2016,73.4
+Ukraine,UA,UKR,2005,99.7
+Ukraine,UA,UKR,2007,99
+Ukraine,UA,UKR,2012,98.9
+United Arab Emirates,AE,ARE,2009,99.9
+United Arab Emirates,AE,ARE,2011,99.9
+"Tanzania, United Republic of",TZ,TZA,2005,47.1
+"Tanzania, United Republic of",TZ,TZA,2010,50.2
+"Tanzania, United Republic of",TZ,TZA,2016,62.6
+Uruguay,UY,URY,2013,99.5
+Uzbekistan,UZ,UZB,2006,97.3
+Uzbekistan,UZ,UZB,2010,99.2
+Uzbekistan,UZ,UZB,2011,99.3
+Uzbekistan,UZ,UZB,2012,99.3
+Uzbekistan,UZ,UZB,2013,99.3
+Uzbekistan,UZ,UZB,2014,99.4
+Uzbekistan,UZ,UZB,2015,99.5
+Uzbekistan,UZ,UZB,2016,99.5
+Uzbekistan,UZ,UZB,2017,99.5
+Uzbekistan,UZ,UZB,2018,99.6
+Vanuatu,VU,VUT,2007,79.8
+Vanuatu,VU,VUT,2013,88.5
+"Venezuela, Bolivarian Republic of",VE,VEN,2002,99.7
+"Venezuela, Bolivarian Republic of",VE,VEN,2003,99.6
+"Venezuela, Bolivarian Republic of",VE,VEN,2004,99.7
+"Venezuela, Bolivarian Republic of",VE,VEN,2005,99.9
+"Venezuela, Bolivarian Republic of",VE,VEN,2012,94.7
+"Venezuela, Bolivarian Republic of",VE,VEN,2013,98.9
+Viet Nam,VN,VNM,2002,78.5
+Viet Nam,VN,VNM,2006,63.8
+Viet Nam,VN,VNM,2011,92.4
+Viet Nam,VN,VNM,2014,93.6
+Yemen,YE,YEM,2003,19.6
+Yemen,YE,YEM,2006,23.5
+Yemen,YE,YEM,2013,29.8
+Zambia,ZM,ZMB,2001,32.3
+Zambia,ZM,ZMB,2002,43.6
+Zambia,ZM,ZMB,2003,39
+Zambia,ZM,ZMB,2006,43
+Zambia,ZM,ZMB,2007,47.7
+Zambia,ZM,ZMB,2008,45
+Zambia,ZM,ZMB,2014,67.4
+Zambia,ZM,ZMB,2019,83.8
+Zimbabwe,ZW,ZWE,2006,67.9
+Zimbabwe,ZW,ZWE,2009,58.5
+Zimbabwe,ZW,ZWE,2011,65.1
+Zimbabwe,ZW,ZWE,2014,79.6
+Zimbabwe,ZW,ZWE,2015,77
+Zimbabwe,ZW,ZWE,2019,85.5
